@@ -13,6 +13,10 @@ de **tipos de relatório** (Abstraction) da hierarquia de **formatos de
 exportação** (Implementor), de modo que as duas evoluam de forma
 independente.
 
+## Dupla
+
+_Andrei Nunes e André Oliveira._
+
 ## Link do Vídeo de explicação
 https://youtu.be/TGUaxsM4R3U
 
@@ -149,7 +153,3 @@ relatório ou formato. Aqui, `Relatorio` (N tipos) e `FormatoExportacao`
 `ExportadorJSON`) não exige tocar em `RelatorioVendas` ou `RelatorioRH`, e
 um novo tipo de relatório não exige tocar em nenhum exportador — cumprindo
 o Princípio Aberto/Fechado do SOLID.
-
-## Dupla
-
-_Andrei Nunes e André Oliveira._
