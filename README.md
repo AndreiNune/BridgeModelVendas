@@ -13,6 +13,9 @@ de **tipos de relatório** (Abstraction) da hierarquia de **formatos de
 exportação** (Implementor), de modo que as duas evoluam de forma
 independente.
 
+## Link do Vídeo de explicação
+https://youtu.be/TGUaxsM4R3U
+
 ## Diagramas (Fase 1)
 
 ### Diagrama de Classes
