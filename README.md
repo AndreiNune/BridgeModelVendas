@@ -149,4 +149,4 @@ o Princípio Aberto/Fechado do SOLID.
 
 ## Dupla
 
-_Preencher com os nomes da dupla responsável por esta atividade._
+_Andrei Nunes e André Oliveira._
